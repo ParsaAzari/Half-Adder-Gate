@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'HalfAdderGate.vhd'
+]
+[libraries.work]
+files = [
+	'HalfAdderGate.vhd'
+]
+# auto-generated-end

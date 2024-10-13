@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="HalfAdderGate.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>HalfAdderGate.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
