@@ -7,8 +7,6 @@ The Half Adder is a combinational logic circuit that performs the addition of tw
 
 ## Entity
 
-Entity
-
 The **entity** section defines the inputs and outputs of the Half Adder. It specifies the types and names of the input and output ports.
 
 ```vhdl
@@ -23,8 +21,6 @@ entity half_adder is
 end entity half_adder; -- End of entity definition
 ```
 ## Architecture
-
-Architecture
 
 The architecture section describes how the Half Adder operates. It implements the logic for calculating the sum and carry based on the input signals.
 
